@@ -1,0 +1,8 @@
+# ignore folder
+__pycache__/*
+
+# Ignore file containing OpenAI API Key
+openai_api_key.py
+
+# ignore the conversation logs
+conv_log*
